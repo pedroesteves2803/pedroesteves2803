@@ -1,8 +1,7 @@
 ## Olá, sou o Pedro Esteves
 
 - 🔭 Estou trabalhando com desenvolvimento web
-- 🌱 Estudando React Native 
-- 📫 Contate-me no email: pedroesteves2803@gmail.com
+- 🌱 Estudando Cienciâ da computação
 
  <div>
   <a href="https://github.com/pedroesteves2803">
