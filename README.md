@@ -1,7 +1,7 @@
 ## Olá, sou o Pedro Esteves
 
 - 🔭 Estou trabalhando com desenvolvimento web
-- 💻 Estudando ciências da computação
+- 💻 Estudando ciência da computação
 
  <div>
   <a href="https://github.com/pedroesteves2803">
